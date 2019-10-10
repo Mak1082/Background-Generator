@@ -1,2 +1,3 @@
 # Background-Generator
-Mayank Tolani
+## Generate beautiful Gradient Backgrounds
+Created by Mayank Tolani.
