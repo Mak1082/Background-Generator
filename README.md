@@ -1,3 +1,3 @@
 # Background-Generator
-## Generate your desired background gradients.
-Mayank K Tolani
+Made By Mayank K Tolani
+and Generates background using JAVA Script
